@@ -1,0 +1,17 @@
+{
+  "name": "side-project",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@amber.js/core": "^0.5.3",
+    "@elysiajs/cors": "^1.0.2",
+    "elysia": "^1.0.25",
+    "mitt": "^3.0.1"
+  }
+}
